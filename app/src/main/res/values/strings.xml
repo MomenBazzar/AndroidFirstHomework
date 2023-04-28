@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="view_title">MY BIO</string>
+    <string name="my_photo_description">My Bio</string>
+    <string name="my_name">Momen Bazzar</string>
+    <string name="type_your_hobby_here">Type your hobby here</string>
+    <string name="button_text">Add</string>
+    <string name="my_info">University: Birzeit\n\nMajor Computer Science\n\nThis\nis\nrandom\ndata\nto\nfill\nthe\nview\n</string>
+</resources>
